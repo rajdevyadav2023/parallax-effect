@@ -5,7 +5,7 @@
   font-family: Verdana, Geneva, sans-serif;
 }
 body{
-  background-color: #f1f1ff;
+  background-color: #000;
 }
 /* -------------------------.-------------  */
 .image{
@@ -32,4 +32,15 @@ body{
 .img-text h1{
   font-size: 4rem;
   font-weight: 900;
+}
+/* ------------------------------- */
+.text-box{
+  padding: 2rem;
+  background-color: #f1f1ff;
+}
+.text-box h3{
+  margin: 1rem 0;
+}
+.text-box p{
+  text-align: justify;
 }
